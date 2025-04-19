@@ -1,0 +1,14 @@
+/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/bin/Debug/net9.0/PsdParser
+/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/bin/Debug/net9.0/PsdParser.deps.json
+/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/bin/Debug/net9.0/PsdParser.runtimeconfig.json
+/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/bin/Debug/net9.0/PsdParser.dll
+/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/bin/Debug/net9.0/PsdParser.pdb
+/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/obj/Debug/net9.0/PsdParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/obj/Debug/net9.0/PsdParser.AssemblyInfoInputs.cache
+/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/obj/Debug/net9.0/PsdParser.AssemblyInfo.cs
+/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/obj/Debug/net9.0/PsdParser.csproj.CoreCompileInputs.cache
+/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/obj/Debug/net9.0/PsdParser.dll
+/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/obj/Debug/net9.0/refint/PsdParser.dll
+/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/obj/Debug/net9.0/PsdParser.pdb
+/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/obj/Debug/net9.0/PsdParser.genruntimeconfig.cache
+/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/obj/Debug/net9.0/ref/PsdParser.dll
