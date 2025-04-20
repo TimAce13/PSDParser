@@ -13,7 +13,7 @@ namespace PsdReaderApp
             Console.WriteLine("=====================\n");
             
             // Default file paths - update these to match your environment
-            string inputPsdPath = "/Users/timofeyuv/Downloads/output-2.psd";
+            string inputPsdPath = "/Users/timofeyuv/Downloads/newpsd.psd";
             string outputPsdPath = "/Users/timofeyuv/Downloads/output-modified.psd";
             
             // Allow command-line arguments to override defaults
@@ -80,7 +80,7 @@ namespace PsdReaderApp
                 
                 // Use the Unicode-aware layer renamer
                 Console.WriteLine($"\nRenaming layer {layerIndex} to '{newName}'...");
-                bool success = UnicodePsdLayerRenamer.RenameLayer(inputPsdPath, uniqueOutputPath, layerIndex, newName);
+                bool success = PsdLayer.RenameLayer(inputPsdPath, uniqueOutputPath, layerIndex, newName);
                 
                 if (success)
                 {

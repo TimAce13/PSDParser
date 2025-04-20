@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/PsdParser.csproj": {}
+    "/Users/timofeyuv/Desktop/PSDParser/PsdParser/PsdParser/PsdParser.csproj": {}
   },
   "projects": {
-    "/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/PsdParser.csproj": {
+    "/Users/timofeyuv/Desktop/PSDParser/PsdParser/PsdParser/PsdParser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/PsdParser.csproj",
+        "projectUniqueName": "/Users/timofeyuv/Desktop/PSDParser/PsdParser/PsdParser/PsdParser.csproj",
         "projectName": "PsdParser",
-        "projectPath": "/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/PsdParser.csproj",
+        "projectPath": "/Users/timofeyuv/Desktop/PSDParser/PsdParser/PsdParser/PsdParser.csproj",
         "packagesPath": "/Users/timofeyuv/.nuget/packages/",
-        "outputPath": "/Users/timofeyuv/RiderProjects/PsdParser/PsdParser/obj/",
+        "outputPath": "/Users/timofeyuv/Desktop/PSDParser/PsdParser/PsdParser/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/timofeyuv/.nuget/NuGet/NuGet.Config"
