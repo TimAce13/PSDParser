@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PsdParser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9034b71bb473cede8c2f9d74181c821713c4d82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d70b92fe39c0c3749a0eddbff08b2f82efa57d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PsdParser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PsdParser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

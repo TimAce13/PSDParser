@@ -27,3 +27,18 @@
 /Users/timofeyuv/Desktop/PSDParser/PsdParser/PsdParser/obj/Debug/net9.0/PsdParser.pdb
 /Users/timofeyuv/Desktop/PSDParser/PsdParser/PsdParser/obj/Debug/net9.0/PsdParser.genruntimeconfig.cache
 /Users/timofeyuv/Desktop/PSDParser/PsdParser/PsdParser/obj/Debug/net9.0/ref/PsdParser.dll
+C:\Users\timuv\OneDrive\Рабочий стол\PSDParser\PsdParser\PsdParser\bin\Debug\net9.0\PsdParser.exe
+C:\Users\timuv\OneDrive\Рабочий стол\PSDParser\PsdParser\PsdParser\bin\Debug\net9.0\PsdParser.deps.json
+C:\Users\timuv\OneDrive\Рабочий стол\PSDParser\PsdParser\PsdParser\bin\Debug\net9.0\PsdParser.runtimeconfig.json
+C:\Users\timuv\OneDrive\Рабочий стол\PSDParser\PsdParser\PsdParser\bin\Debug\net9.0\PsdParser.dll
+C:\Users\timuv\OneDrive\Рабочий стол\PSDParser\PsdParser\PsdParser\bin\Debug\net9.0\PsdParser.pdb
+C:\Users\timuv\OneDrive\Рабочий стол\PSDParser\PsdParser\PsdParser\obj\Debug\net9.0\PsdParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timuv\OneDrive\Рабочий стол\PSDParser\PsdParser\PsdParser\obj\Debug\net9.0\PsdParser.AssemblyInfoInputs.cache
+C:\Users\timuv\OneDrive\Рабочий стол\PSDParser\PsdParser\PsdParser\obj\Debug\net9.0\PsdParser.AssemblyInfo.cs
+C:\Users\timuv\OneDrive\Рабочий стол\PSDParser\PsdParser\PsdParser\obj\Debug\net9.0\PsdParser.csproj.CoreCompileInputs.cache
+C:\Users\timuv\OneDrive\Рабочий стол\PSDParser\PsdParser\PsdParser\obj\Debug\net9.0\PsdParser.sourcelink.json
+C:\Users\timuv\OneDrive\Рабочий стол\PSDParser\PsdParser\PsdParser\obj\Debug\net9.0\PsdParser.dll
+C:\Users\timuv\OneDrive\Рабочий стол\PSDParser\PsdParser\PsdParser\obj\Debug\net9.0\refint\PsdParser.dll
+C:\Users\timuv\OneDrive\Рабочий стол\PSDParser\PsdParser\PsdParser\obj\Debug\net9.0\PsdParser.pdb
+C:\Users\timuv\OneDrive\Рабочий стол\PSDParser\PsdParser\PsdParser\obj\Debug\net9.0\PsdParser.genruntimeconfig.cache
+C:\Users\timuv\OneDrive\Рабочий стол\PSDParser\PsdParser\PsdParser\obj\Debug\net9.0\ref\PsdParser.dll
